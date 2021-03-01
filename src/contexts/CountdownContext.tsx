@@ -21,7 +21,7 @@ interface CountdownProviderProps {
   children: ReactNode;
 }
 
-const LIMIT_TIME = 25 * 60;
+const LIMIT_TIME = 1 * 2;
 
 let countdownTimeout: NodeJS.Timeout;
 
