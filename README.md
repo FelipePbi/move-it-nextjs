@@ -6,7 +6,6 @@
    <a href="https://www.linkedin.com/in/felipe-borges-pbi/">
       <img alt="Felipe Borges" src="https://img.shields.io/badge/-Felipe%20Borges-4e5acf?style=flat&logo=Linkedin&logoColor=white" />
    </a>
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/FelipePbi/move-it-next-nlw4?color=4e5acf">
 
   <a aria-label="Last Commit" href="https://github.com/FelipePbi/move-it-next-nlw4/commits/master">
     <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/FelipePbi/move-it-next-nlw4?color=4e5acf">
@@ -39,8 +38,8 @@
    <img src="https://raw.githubusercontent.com/FelipePbi/move-it-next-nlw4/master/.github/timer-dark.png" width="400px">
    <img src="https://raw.githubusercontent.com/FelipePbi/move-it-next-nlw4/master/.github/new-challenge-ligth.png" width="400px">
    <img src="https://raw.githubusercontent.com/FelipePbi/move-it-next-nlw4/master/.github/new-challenge-dark.png" width="400px">
-   <img src="https://raw.githubusercontent.com/FelipePbi/move-it-next-nlw4/master/.github/timer-ligth.png" width="400px">
-   <img src="https://raw.githubusercontent.com/FelipePbi/move-it-next-nlw4/master/.github/timer-dark.png" width="400px">
+   <img src="https://raw.githubusercontent.com/FelipePbi/move-it-next-nlw4/master/.github/level-up-ligth.png" width="400px">
+   <img src="https://raw.githubusercontent.com/FelipePbi/move-it-next-nlw4/master/.github/level-up-dark.png" width="400px">
 
 </div>
 
