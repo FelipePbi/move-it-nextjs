@@ -24,14 +24,14 @@
   </sub>
 </div>
 
-# :pushpin: Conteúdo
+## Conteúdo :pushpin:
 
 - [Fotos](#fotos)
 - [Tecnologias](#computer-tecnologias)
 - [Executando](#construction_worker-executando)
 - [Licença](#closed_book-licença)
 
-### Fotos :eyes:
+## Fotos :eyes:
 
 <div>
    <img src="https://raw.githubusercontent.com/FelipePbi/move-it-next-nlw4/master/.github/timer-ligth.png" width="400px">
@@ -43,7 +43,7 @@
 
 </div>
 
-# :computer: Tecnologias
+## Tecnologias :computer:
 
 Este projeto foi feito utilizando as seguintes tecnologias:
 
@@ -57,7 +57,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 - [ESLint](https://github.com/eslint/eslint)
 - [Prettier](https://github.com/prettier/prettier)
 
-# Executando :construction_worker:
+## Executando :construction_worker:
 
 ```bash
 # Clone o Repositório
@@ -76,6 +76,6 @@ $ yarn dev
 
 Acesse <http://localhost:3000> para ver o resultado.
 
-# :closed_book: Licença
+## Licença :closed_book:
 
 Este projeto está sob a licença [MIT](./LICENSE).
